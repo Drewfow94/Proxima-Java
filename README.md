@@ -1,3 +1,3 @@
-# Alien Blaster
+# Proxima
 # A top down shooter made with Java and LibGDX
-# By: Andrew Smith(Kashak)
+# By: Andrew Smith(Drewfow94)
